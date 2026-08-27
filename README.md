@@ -6,6 +6,4 @@ meus estudos de cibersegurança na Guardian e prática pessoal.
 ---
 
 ## TryHackMe
-- [Vulnversity](tryhackme/vulnversity.md)
-- [RootMe](tryhackme/rootme.md)
-- [Pickle Rick](tryhackme/picklerick.md)
+- [Vulnversity](tryhackme/Write-Up_Vulnversity.docx)
